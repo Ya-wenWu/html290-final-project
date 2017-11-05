@@ -1,0 +1,9 @@
+//陽春版RESET
+//通用標籤的留白與邊界都改為0
+
+html,body,h1,h2,h3,h4,h5,h6,p,article,section,header,footer,aside,div,nav,main,span{
+
+    margin: 0;
+    padding: 0;
+}
+
